@@ -150,7 +150,7 @@ Example: "Explain the causes of climate change in three bullet points."
 -More useful for academic understanding
 
 
-### Scenario 4: Opinion-Based Prompt
+## Scenario 4: Opinion-Based Prompt
 
 ### Prompt A (Broad):
 
